@@ -4,6 +4,44 @@
 
 This is a collection of simple Data Structures and Algorithms that have uses in a lot of different fields. The goal of this project is to help you learn these concepts and to help you practice them. I have implemented in Go, JavaScript and Python. But you can implement them in any language you want.
 
+## List of Data Structures and Algorithms
+
+### Data Structures
+
+- [ ] [Linked List]()
+- [ ] [Queue and Priority Queue]()
+- [ ] [Stack]()
+- [ ] [Hash Table]()
+- [ ] [Heap]()
+- [ ] [Trie]()
+- [ ] [Binary Search Tree and AVL Tree]()
+- [ ] [Red and Black Tree and Segment Tree]()
+- [ ] [Directed and Undirected Graph]()
+- [ ] [Disjoint Set]()
+- [ ] [Bloom Filter]()
+
+### Algorithms
+
+- [ ] [Caesar Cipher]()
+- [ ] [Transposition Cipher]()
+
+- [ ] [RGB to HEX]()
+
+- [ ] [Kruskal Graph]()
+- [ ] [Breadth First Search]()
+- [ ] [Depth First Search]()
+- [ ] [Topological Graph]()
+
+- [ ] [Fibonacci Sequence]()
+- [ ] [Permutation]()
+- [ ] [PI]()
+- [ ] [Modular Arithmetic]()
+- [ ] [Closest Points]()
+
+- [ ] [Knapsack Problem]()
+- [ ] [Travelling Salesman Problem]()
+- [ ] [Sieve Of Eratosthenes]()
+
 ## How to use this project
 
 1. Fork this repository
