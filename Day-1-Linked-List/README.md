@@ -35,12 +35,12 @@ A circular linked list is a linked list where all nodes are connected to form a 
 
 ![Circular Linked List](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/03/circularlinkedlist.png)
 
-## Advantages of Linked List
+## Advantages of Linked List compared to array
 
 1. Dynamic size
 2. Ease of insertion/deletion
 
-## Disadvantages of Linked List
+## Disadvantages of Linked List compared to array
 
 1. Random access is not allowed. We have to access elements sequentially starting from the first node. So we cannot do binary search with linked lists.
 2. Extra memory space for a pointer is required with each element of the list.
@@ -48,15 +48,15 @@ A circular linked list is a linked list where all nodes are connected to form a 
 
 ## Applications of Linked List
 
-1. Implementation of stacks and queues
-2. Implementation of graphs
-3. Used in undo functionality at many places like editors, photoshop.
-4. Used in Hash Table implementation
-5. Used in Operating System for process management
-6. Used in File System for file management
-7. Used in Memory management
-8. Used in Garbage Collection
-9. Used in Implementing Adjacency List
+1.  Implementation of stacks and queues
+2.  Implementation of graphs
+3.  Used in undo functionality at many places like editors, photoshop.
+4.  Used in Hash Table implementation
+5.  Used in Operating System for process management
+6.  Used in File System for file management
+7.  Used in Memory management
+8.  Used in Garbage Collection
+9.  Used in Implementing Adjacency List
 10. Used in Implementing Adjacency Matrix
 11. Used in Implementing Graphs
 12. Used in Implementing Linked Representation of Graphs
