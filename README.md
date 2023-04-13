@@ -1,4 +1,4 @@
-# 20 Days of Data Structures and Algorithms
+# Days of Data Structures and Algorithms
 
 ## Introduction
 
